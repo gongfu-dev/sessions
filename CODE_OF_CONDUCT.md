@@ -1,29 +1,90 @@
-_Gōng-fu I/O_ est une communauté inclusive où les développeurs·euses, les concepteurs et les entrepreneurs de tous niveaux, genres, religions et origines sont les bienvenus pour apprendre, pratiquer, partager leurs connaissances et leurs compétences en développement logiciel. Notre devise est:
+# Contributor Covenant 3.0 Code of Conduct
 
-**Soyez impeccables envers chacune·chacun**
+## Our Pledge
 
-Notre groupe est un lieu de discussion et d'échange ouvert d'idées. Nous ne pouvons atteindre cet objectif que si toutes les personnes impliquées se sentent chaleureusement accueillies et appréciées des participants et se trouvent dans un environnement sûr. Bien que nous puissions être en désaccord avec les opinions des uns et des autres, nous devrions pouvoir le faire sans déranger ni être bouleversé par les autres.
+We pledge to make our community welcoming, safe, and equitable for all.
 
-Nous ne tolérons donc pas de commentaires verbaux ou de matériel de présentation faisant un usage inapproprié du sexe, de l'identité et de l'expression de genre, de l'orientation sexuelle, du handicap, de l'apparence physique, de la taille du corps, de la race, de l'âge ou de la religion.
+We are committed to fostering an environment that respects and promotes the dignity, rights, and contributions of all individuals, regardless of characteristics including race, ethnicity, caste, color, age, physical characteristics, neurodiversity, disability, sex or gender, gender identity or expression, sexual orientation, language, philosophy or religion, national or social origin, socio-economic position, level of education, or other status. The same privileges of participation are extended to everyone who participates in good faith and in accordance with this Covenant.
 
-Nous exigeons des participants qu'ils respectent les limites des autres et ne tolèrent pas l'intimidation délibérée, le harcèlement, le suivi, le harcèlement photographique ou l'enregistrement, l'interruption des sessions, les contacts physiques inappropriés ou l'attention sexuelle importune.
+## Encouraged Behaviors
 
-Si un participant se livre à un comportement de harcèlement, les organisateurs prendront toutes les mesures qu'ils jugeront appropriées, y compris avertir le contrevenant ou l'expulsion de l'événement sans remboursement.
+While acknowledging differences in social norms, we all strive to meet our community's expectations for positive behavior. We also understand that our words and actions may be interpreted differently than we intend based on culture, background, or native language.
 
-Si vous êtes victime de harcèlement, notez que quelqu'un d'autre est harcelé ou avez d'autres préoccupations, veuillez contacter: contact@gongfu.io
+With these considerations in mind, we agree to behave mindfully toward each other and act in ways that center our shared values, including:
 
-··❊··
+1. Respecting the **purpose of our community**, our activities, and our ways of gathering.
+2. Engaging **kindly and honestly** with others.
+3. Respecting **different viewpoints** and experiences.
+4. **Taking responsibility** for our actions and contributions.
+5. Gracefully giving and accepting **constructive feedback**.
+6. Committing to **repairing harm** when it occurs.
+7. Behaving in other ways that promote and sustain the **well-being of our community**.
 
-_Gōng-fu I/O_ is an inclusive community where developers, designers, and entrepreneurs of all skill levels, genders, religions, and backgrounds welcome to learn, practice, and share their knowledge and coding skills. Our motto is:
 
-**Be Excellent To Each Other**
+## Restricted Behaviors
 
-Our group is a place for discussion and the open exchange of ideas. We can only achieve this goal if everyone involved feels that they are warmly welcomed and valued participants and that they are in a safe environment. Although we may disagree with each other’s opinions, we should be able to do so without upsetting or being upset by others.
+We agree to restrict the following behaviors in our community. Instances, threats, and promotion of these behaviors are violations of this Code of Conduct.
 
-We therefore do not tolerate verbal comments or presentation material that makes inappropriate use of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. 
+1. **Harassment.** Violating explicitly expressed boundaries or engaging in unnecessary personal attention after any clear request to stop.
+2. **Character attacks.** Making insulting, demeaning, or pejorative comments directed at a community member or group of people.
+3. **Stereotyping or discrimination.** Characterizing anyone’s personality or behavior on the basis of immutable identities or traits.
+4. **Sexualization.** Behaving in a way that would generally be considered inappropriately intimate in the context or purpose of the community.
+5. **Violating confidentiality**. Sharing or acting on someone's personal or private information without their permission.
+6. **Endangerment.** Causing, encouraging, or threatening violence or other harm toward any person or group.
+7. Behaving in other ways that **threaten the well-being** of our community.
 
-We require participants to respect others' boundaries and do not tolerate deliberate intimidation, stalking, following, harassing photography or recording, disruption of sessions, inappropriate physical contact, or unwelcome sexual attention.
+### Other Restrictions
 
-If a participant engages in harassing behavior, the organizers will take any action they deem appropriate, including warning the offender or expulsion from the the event with no refund.
+1. **Misleading identity.** Impersonating someone else for any reason, or pretending to be someone else to evade enforcement actions.
+2. **Failing to credit sources.** Not properly crediting the sources of content you contribute.
+3. **Promotional materials**. Sharing marketing or other commercial content in a way that is outside the norms of the community.
+4. **Irresponsible communication.** Failing to responsibly present content which includes, links or describes any other restricted behaviors.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact: contact@gongfu.io
+
+## Reporting an Issue
+
+Tensions can occur between community members even when they are trying their best to collaborate. Not every conflict represents a code of conduct violation, and this Code of Conduct reinforces encouraged behaviors and norms that can help avoid conflicts and minimize harm.
+
+When an incident does occur, it is important to report it promptly. To report a possible violation, **write an e-mail to contact@gongfu.dev or send a direct message to any member of the @Moderator group on our Discord (https://discord.gg/Z2X68VvHem).**
+
+Community Moderators take reports of violations seriously and will make every effort to respond in a timely manner. They will investigate all reports of code of conduct violations, reviewing messages, logs, and recordings, or interviewing witnesses and other participants. Community Moderators will keep investigation and enforcement actions as transparent as possible while prioritizing safety and confidentiality. In order to honor these values, enforcement actions are carried out in private with the involved parties, but communicating to the whole community may be part of a mutually agreed upon resolution.
+
+
+## Addressing and Repairing Harm
+
+****
+
+If an investigation by the Community Moderators finds that this Code of Conduct has been violated, the following enforcement ladder may be used to determine how best to repair harm, based on the incident's impact on the individuals involved and the community as a whole. Depending on the severity of a violation, lower rungs on the ladder may be skipped.
+
+1) Warning
+   1) Event: A violation involving a single incident or series of incidents.
+   2) Consequence: A private, written warning from the Community Moderators.
+   3) Repair: Examples of repair include a private written apology, acknowledgement of responsibility, and seeking clarification on expectations.
+2) Temporarily Limited Activities
+   1) Event: A repeated incidence of a violation that previously resulted in a warning, or the first incidence of a more serious violation.
+   2) Consequence: A private, written warning with a time-limited cooldown period designed to underscore the seriousness of the situation and give the community members involved time to process the incident. The cooldown period may be limited to particular communication channels or interactions with particular community members.
+   3) Repair: Examples of repair may include making an apology, using the cooldown period to reflect on actions and impact, and being thoughtful about re-entering community spaces after the period is over.
+3) Temporary Suspension
+   1) Event: A pattern of repeated violation which the Community Moderators have tried to address with warnings, or a single serious violation.
+   2) Consequence: A private written warning with conditions for return from suspension. In general, temporary suspensions give the person being suspended time to reflect upon their behavior and possible corrective actions.
+   3) Repair: Examples of repair include respecting the spirit of the suspension, meeting the specified conditions for return, and being thoughtful about how to reintegrate with the community when the suspension is lifted.
+4) Permanent Ban
+   1) Event: A pattern of repeated code of conduct violations that other steps on the ladder have failed to resolve, or a violation so serious that the Community Moderators determine there is no way to keep the community safe with this person as a member.
+   2) Consequence: Access to all community spaces, tools, and communication channels is removed. In general, permanent bans should be rarely used, should have strong reasoning behind them, and should only be resorted to if working through other remedies has failed to change the behavior.
+   3) Repair: There is no possible repair in cases of this severity.
+
+This enforcement ladder is intended as a guideline. It does not limit the ability of Community Managers to use their discretion and judgment, in keeping with the best interests of our community.
+
+
+## Scope
+
+This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public or other spaces. Examples of representing our community include using an official email address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
+
+
+## Attribution
+
+This Code of Conduct is adapted from the Contributor Covenant, version 3.0, permanently available at [https://www.contributor-covenant.org/version/3/0/](https://www.contributor-covenant.org/version/3/0/).
+
+Contributor Covenant is stewarded by the Organization for Ethical Source and licensed under CC BY-SA 4.0. To view a copy of this license, visit [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
+
+For answers to common questions about Contributor Covenant, see the FAQ at [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). Translations are provided at [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations). Additional enforcement and community guideline resources can be found at [https://www.contributor-covenant.org/resources](https://www.contributor-covenant.org/resources). The enforcement ladder was inspired by the work of [Mozilla’s code of conduct team](https://github.com/mozilla/inclusion).
