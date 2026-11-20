@@ -1,16 +1,16 @@
-# Gōng-fu I/O Weekly ✼ Hack Sessions
+# Gōng-fu DEV Weekly ✼ Hack Sessions
 
-[Upcoming sessions](https://gongfu.dev/sessions/) | [Past sessions](https://github.com/gongfuio/sessions/issues?q=is%3Aissue+is%3Aclosed)
+[Upcoming sessions](https://gongfu.dev/sessions/) | [Past sessions](https://github.com/gongfu-dev/sessions/issues?q=is%3Aissue+is%3Aclosed)
 
-**Update** 04.11.2024: sessions are not reported on our new [gongfu.dev](https://gongfu.dev/sessions/) website.
-
-The [issues in this repository](https://github.com/gongfuio/sessions/issues?q=is%3Aissue) (eventually) contain a log of the activities of each session.
+> [!TIP]
+> Since 4 October 2024, sessions are reported on our new [gongfu.dev](https://gongfu.dev/sessions/) website – not in this repo anymore.
+> Up to then, the [issues in this repository](https://github.com/gongfuio/sessions/issues?q=is%3Aissue) (eventually) contained a log of the activities of each session.
 
 ## Join us
 
-* Join us on our [Gōng-fu I/O ‹Creative Coders›](https://www.meetup.com/fr-FR/gōngfuIO) group on Meetup.  
-* Our sessions currently happen *remotely*.  
-* Register for the Hack Session you'd like to participate  
-  and leave a comment on Meetup, requesting an invite to our Slack group.  
+* Join us on our [Gōng-fu DEV ‹Creative Coders›](https://discord.gg/Z2X68VvHem) server on Discord.
+* Our sessions currently happen *remotely*.
+* Mention the Hack Session you'd like to join  
+  and introduce yourself briefly in a comment.
 
 See you soon!
